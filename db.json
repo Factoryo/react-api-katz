@@ -1,0 +1,65 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "titre": "Brest",
+        "description": "Brest est connue pour la rade de Brest et Océanopolis.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Ch%C3%A2teau_et_Tour_Tanguy.jpg"
+      },
+      {
+        "id": 2,
+        "titre": "Rennes",
+        "description": "Rennes est la préfecture de la région Bretagne connue pour sa célèbre rue de la soif.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Rennes-Place-du-Champ-Jacquet-Statue-Leperdit-Mars-2020.jpg"
+      },
+      {
+        "id": 3,
+        "titre": "Quimper",
+        "description": "Quimper est une ville connue pour sa faïencerie.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Quimper2011.png"
+      },
+      {
+        "id": 4,
+        "titre": "Lorient",
+        "description": "Lorient est une ville connue pour sa rade et la cité de la voile.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Lorient.jpg"
+      },
+      {
+        "id": 5,
+        "titre": "Vannes",
+        "description": "Vannes est une ville médiévale fortifiée située dans le Morbihan qui donne accès au Golfe du même nom.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Remparts-Jardins-Vannes2.jpg"
+      },
+      {
+        "id": 6,
+        "titre": "Saint-Malo",
+        "description": "Saint-Malo est une ville portuaire fortifiée célèbre pour ses remparts.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/IMG_2935_StMalo.JPG"
+      },
+      {
+        "id": 7,
+        "titre": "Dinan",
+        "description": "Dinan est une charmante ville fortifiée surplombant la Rance.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Dinan_Saint-Sauveur_vue_des_remparts.jpg"
+      },
+      {
+        "id": 8,
+        "titre": "Fougères",
+        "description": "Fougères possède un imposant château médiéval et est entourée d'une belle campagne.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/124_Le_ch%C3%A2teau_de_Foug%C3%A8res.jpg"
+      },
+      {
+        "id": 9,
+        "titre": "Carnac",
+        "description": "Carnac est célèbre pour ses alignements de menhirs et une station balnèaire très appréciée.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Tumulus_Saint-Michel_%281%29.jpg"
+      },
+      {
+        "id": 10,
+        "titre": "Paimpol",
+        "description": "Paimpol est une ville pittoresque connue pour son port et son festival des chants de marins.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Paimpol_2012.JPG"
+      }
+    ]
+  }
+  
